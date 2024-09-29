@@ -1,0 +1,19 @@
+h2 {
+    font-size: 1.5em;
+    /* 카운트 텍스트 크기 */
+    color: #61dafb;
+    /* 카운트 텍스트 색상 */
+    margin: 10px 0;
+    /* 여백 설정 */
+}
+
+button {
+    margin: 5px;
+    /* 버튼 간격 */
+    padding: 10px;
+    /* 버튼 패딩 */
+    font-size: 16px;
+    /* 버튼 글자 크기 */
+    cursor: pointer;
+    /* 마우스 포인터 변경 */
+}

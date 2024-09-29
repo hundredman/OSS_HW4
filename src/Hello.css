@@ -1,0 +1,17 @@
+h1 {
+    font-size: 2.5em;
+    /* 폰트 크기 설정 */
+    color: #61dafb;
+    /* 텍스트 색상 설정 */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    /* 텍스트에 그림자 추가 */
+    margin: 20px 0;
+    /* 위아래 여백 설정 */
+    transition: transform 0.3s;
+    /* 마우스를 올렸을 때 부드러운 애니메이션 효과 */
+}
+
+h1:hover {
+    transform: scale(1.1);
+    /* 마우스를 올렸을 때 크기 증가 */
+}
